@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RoseGekonge
-- 👀 I’m interested in programming and learning more about coding...
+- 👀 I’m interested in programming and learning more about coding
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate with my fellow leaners and on future projects
-- 📫 How to reach me - I can be reached at rgekonge2001@gmail.com 
+- 📫 How to reach me - I can be reached at rgekonge2001@gmail.com and +254700022385
 
 <!---
 RoseGekonge/RoseGekonge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
