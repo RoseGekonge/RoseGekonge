@@ -1,7 +1,7 @@
 # Hi, I'm Rose Gekonge! <img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RoseGekonge)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rose-gekonge-071657249)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rose-gekonge-071657249/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rgekonge2001@gmail.com)
 
 I am a passionate software engineer with a strong interest in Reservoir and Mud Engineering. My journey began with the ALX Software Engineering Program, where I developed a deep curiosity for technology and a commitment to creating impactful solutions. Let's explore the fascinating world of technology together!
@@ -39,7 +39,7 @@ I am a passionate software engineer with a strong interest in Reservoir and Mud 
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn](www.linkedin.com/in/rose-gekonge-071657249)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/rose-gekonge-071657249/)
 - Reach out via email: [rgekonge2001@gmail.com](mailto:rgekonge2001@gmail.com)
 
 Thanks for stopping by! I'm excited to connect and collaborate on innovative projects that bridge technology with Reservoir and Mud Engineering. 🚀
