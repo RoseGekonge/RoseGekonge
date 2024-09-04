@@ -2,7 +2,7 @@
 
 I am a passionate software engineer with a strong interest in Reservoir and Mud Engineering. My journey began with the ALX Software Engineering Program, where I developed a deep curiosity for technology and a commitment to creating impactful solutions. Let's explore the fascinating world of technology together!
 
-![RoseGekonge's Stats](https://github-readme-stats.vercel.app/api?username=RoseGekonge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 
 ## 🚀 About Me
 
@@ -63,6 +63,8 @@ Would you like any further personalization or adjustments?
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate with my fellow leaners and on future projects
 
+  
+![RoseGekonge's Stats](https://github-readme-stats.vercel.app/api?username=RoseGekonge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!---
 RoseGekonge/RoseGekonge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
