@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 Would you like any further personalization or adjustments?
 
-- 👋 Hi, I’m @RoseGekonge
+- 👋 Hi, I’m ![Rose Gekonge](https://github.com/RoseGekonge)
 - 👀 I’m interested in programming and learning more about coding
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate with my fellow leaners and on future projects
