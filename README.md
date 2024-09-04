@@ -32,11 +32,6 @@ I am a passionate software engineer with a strong interest in Reservoir and Mud 
   - Developing robust server-side applications with Flask and Node.js.
   - Exploring SQLAlchemy for efficient database management.
 
-## 🏆 Achievements
-
-- 🌟 Successfully completed several complex projects, including a hotel management system.
-- 🌍 Actively contributing to open-source projects and continuously learning new technologies.
-
 ## 📬 Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/rose-gekonge-071657249/)
