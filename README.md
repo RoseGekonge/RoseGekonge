@@ -1,5 +1,9 @@
 # Hi, I'm Rose Gekonge! 👋
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RoseGekonge)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rose-gekonge-071657249)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rgekonge2001@gmail.com)
+
 I am a passionate software engineer with a strong interest in Reservoir and Mud Engineering. My journey began with the ALX Software Engineering Program, where I developed a deep curiosity for technology and a commitment to creating impactful solutions. Let's explore the fascinating world of technology together!
 
 
