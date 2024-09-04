@@ -63,7 +63,8 @@ Would you like any further personalization or adjustments?
 - 🌱 I’m currently learning how to program
 - 💞️ I’m looking to collaborate with my fellow leaners and on future projects
 
-  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RoseGekonge&langs_count=10&show_icons=true&theme=radical&locale=en&layout=compact" alt="RoseGekonge" /></p>
+
 ![RoseGekonge's Stats](https://github-readme-stats.vercel.app/api?username=RoseGekonge&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!---
 RoseGekonge/RoseGekonge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
