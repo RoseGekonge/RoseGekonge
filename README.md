@@ -1,4 +1,4 @@
-# Hi, I'm Rose Gekonge! 👋
+# Hi, I'm Rose Gekonge! <img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RoseGekonge)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/rose-gekonge-071657249)
